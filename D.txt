@@ -1,5 +1,6 @@
 public static D {
 	public static void method() {
 		System.out.println("Text from D");
+		System.out.println("This line was added on stage 18");
 	}
 }
