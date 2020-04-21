@@ -1,0 +1,5 @@
+public static D {
+	public static void method() {
+		System.out.println("Text from D");
+	}
+}
