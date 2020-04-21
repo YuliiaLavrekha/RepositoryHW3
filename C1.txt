@@ -1,5 +1,5 @@
-public class C1 {
-	public static void method() {
-		System.out.println("Text from C1, added on stage 20");
+public class C1New {
+	public static void methodForC1New() {
+		System.out.println("Text from C1New, changed on stage 24");
 	}
 }

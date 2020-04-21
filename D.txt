@@ -1,6 +1,7 @@
-public static D {
+public class D {
 	public static void method() {
 		System.out.println("Text from D");
-		System.out.println("This line was added on stage 18");
+		System.out.println("This line was changed on stage 26");
+		System.out.println("This line was added on stage 26");
 	}
 }
