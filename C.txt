@@ -1,5 +1,0 @@
-public static C {
-	public static void method() {
-		System.out.println("Text from C");
-	}
-}
